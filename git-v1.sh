@@ -21,7 +21,7 @@ fi
 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
-git pull #origin master
+git pull origin master
 
 # add all
 git add --all .

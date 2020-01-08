@@ -15,6 +15,6 @@
 * Username : **admin**
 * Password : **VF-EShg553**
 
-![alt text](https://github.com/MounirErhili/huawei-hg553-firmware-orig/blob/master/Screenshot_20200107_224051.jpeg "login page")
+![alt text](https://github.com/MounirErhili/huawei-hg553-firmware-orig/blob/master/Screenshot_20200108_053759.jpeg "login page")
 
-![alt text](https://github.com/MounirErhili/huawei-hg553-firmware-orig/blob/master/Screenshot_20200107_224140.jpeg "version")
+![alt text](https://github.com/MounirErhili/huawei-hg553-firmware-orig/blob/master/Screenshot_20200108_053655.jpeg "version")
