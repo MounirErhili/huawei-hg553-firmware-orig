@@ -18,16 +18,22 @@ if [[ "$cleanup" == "Y" || "$cleanup" == "y" ]]; then
 	echo "#################   C L E A N U P   D O N E   ##################"
 	echo "################################################################"
 fi
-
+ 
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
-git pull origin master
+git pull #origin master
+
+# enable large files
+# git lfs install
+
+# add LFS tracking
+# git lfs track "filename"
 
 # add all
 git add --all .
 
-# echo out git Changes
-echo "echo out git Changes!"
+# printing Changed files!
+echo "printing Changed files!"
 git status
 
 # if you want to continue this proccess plz press the enter key!
@@ -36,7 +42,7 @@ read -p "if you want to continue this proccess plz press the enter key! "
 # Give a comment to the commit if you want
 echo "####################################"
 echo "#### Write your commit comment! ####"
-echo "##### Defualt = first commit!  #####"
+echo "##### Default = first commit!  #####"
 echo "####################################"
 
 read input
@@ -49,8 +55,8 @@ fi
 git commit -m "$input"
 
 # Push the local files to github
-# git push -u origin master
-git push origin master --force
+# git push origin master --force
+git push -u origin master
 
 echo "################################################################"
 echo "###############     G I T  P U S H  D O N E      ###############"
