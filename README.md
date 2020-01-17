@@ -20,5 +20,5 @@ git clone https://github.com/MounirErhili/huawei-hg553-firmware-orig.git
 #### Login Page
 ![alt text](https://github.com/MounirErhili/huawei-hg553-firmware-orig/blob/master/Screenshot_20200108_053759.jpeg "login page")
 
-#### Version
+#### Overview
 ![alt text](https://github.com/MounirErhili/huawei-hg553-firmware-orig/blob/master/Screenshot_20200108_053655.jpeg "version")
