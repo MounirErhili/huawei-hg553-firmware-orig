@@ -17,6 +17,8 @@ git clone https://github.com/MounirErhili/huawei-hg553-firmware-orig.git
 * Username : **admin**
 * Password : **VF-EShg553**
 
+#### Login Page
 ![alt text](https://github.com/MounirErhili/huawei-hg553-firmware-orig/blob/master/Screenshot_20200108_053759.jpeg "login page")
 
+#### Version
 ![alt text](https://github.com/MounirErhili/huawei-hg553-firmware-orig/blob/master/Screenshot_20200108_053655.jpeg "version")
